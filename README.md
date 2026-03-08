@@ -29,7 +29,7 @@ Adapted demo of Square Enix's active time battle system created in Unity.
 
 ## Requirements analysis
 
-![Result](Media/dokument1.png)
+![Result](Media/dokument1.PNG)
 
 ## Demo
 
