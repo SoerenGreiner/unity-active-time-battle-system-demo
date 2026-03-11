@@ -27,6 +27,25 @@ Adapted demo of Square Enix's active time battle system created in Unity.
 - Spell Hits
 - Menu
 
+## Tech Stack 🛠️
+
+### Languages 💻
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
+</p>
+
+### Frameworks & Platforms ⚙️
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" title="Unity"/>
+</p>
+
+### Developer Tools 🧰
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Studio"/>
+</p>
+
 ## Requirements analysis
 
 ![Result](Media/dokument1.PNG)
@@ -40,8 +59,3 @@ Adapted demo of Square Enix's active time battle system created in Unity.
 ## Gameplay Demo
 
 [![Watch the video](Media/thumbnail.png)](https://youtu.be/taBAAo1MjCo)
-
-## Tech
-
-- Unity
-- C#
